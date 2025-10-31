@@ -5,8 +5,9 @@
 ## Where Champions Are Made
 
 Experience world-class coaching, state-of-the-art facilities, and a community that drives excellence. At KUZO Tennis Academy, we transform passion into performance and potential into championships.
+ 
+<img width="1635" height="792" alt="Screenshot Capture - 2025-10-31 - 09-55-20" src="https://github.com/user-attachments/assets/07b226b1-bcb8-4e1a-b346-1270173cdd2e" />
 
-![Tennis Court](public/images/tennis-court-hero.jpg)
 
 ## About Us
 
