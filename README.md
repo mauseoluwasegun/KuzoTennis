@@ -1,6 +1,8 @@
 # KUZO TENNIS ACADEMY
 
-![KUZO Tennis Academy](public/images/logo.png)
+![Uploading Screenshot Capture - 2025-10-31 - 09-54-32.png…]()
+
+<img width="1897" height="894" alt="Screenshot Capture - 2025-10-31 - 09-54-32" src="https://github.com/user-attachments/assets/d0f801a3-e52f-4d43-bd49-f35be273cd22" />
 
 ## Where Champions Are Made
 
